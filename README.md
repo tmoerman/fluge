@@ -8,6 +8,8 @@ A Quil sketch implementing an interactive "brushing and linking" visualization, 
 
 ## Usage
 
+You'll need the [Leiningen](http://leiningen.org/) build tool to compile the code.
+
 Run `lein compile` command and open `index.html` in your browser.
 
 For interactive development run `lein cljsbuild auto` command. This command will be recompiling cljs to js each time you modify `core.cljs` and you can see result immediately by refreshing page.
