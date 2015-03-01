@@ -1,8 +1,10 @@
-# test-js
+# Flüge
 
-A Quil sketch implementing a "brushing and linking" exercise on flights data.
+![image][logo]
 
-See the [exercise page on the vda-lab blog](http://homes.esat.kuleuven.be/~bioiuser/blog/hands-on-data-visualization-using-processing/).
+[logo]: img/fluge.png
+
+A Quil sketch implementing an interactive "brushing and linking" visualization, inspired by the flight data [visualization exercise](http://homes.esat.kuleuven.be/~bioiuser/blog/hands-on-data-visualization-using-processing/) on the [VDA-lab blog](http://vda-lab.be).
 
 ## Usage
 
